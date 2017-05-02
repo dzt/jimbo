@@ -1,0 +1,11 @@
+{
+  "name": "sscout-shopify",
+  "version": "1.0.0",
+  "description": "Magical Shopify Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Soboyejo <thepcmrtim@gmail.com>",
+  "license": "MIT"
+}
