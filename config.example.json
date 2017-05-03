@@ -1,0 +1,13 @@
+{
+  "port": 1337,
+  "sitekey": "6LeoeSkTAAAAAA9rkZs5oS82l69OEYjKRZAiKdaF",
+  "slackBot": {
+    "active": false,
+    "token": "token goes here",
+    "channel": "monitor",
+    "settings": {
+      "username": "JimboBot",
+      "icon_url": "http://i.imgur.com/RW4D6OK.png"
+    }
+  }
+}

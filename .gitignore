@@ -44,4 +44,4 @@ out
 .DS_Store
 
 # SQLite Stuff
-database
+database/db
